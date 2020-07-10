@@ -24,7 +24,9 @@ hash = {
       :assists =>
       {
       }
-      :steals =>{}
+      :steals =>
+      {
+      }
       :blocks =>{}
       :slam_dunks =>{}
       },
