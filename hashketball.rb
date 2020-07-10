@@ -1,6 +1,8 @@
 hash = {:home => [
   :team_name =>,
-  :colors =>,
+  :colors => [
+    " "
+  ],
   :players =>
   ],
   :away => [
