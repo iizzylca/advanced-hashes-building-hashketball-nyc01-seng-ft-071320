@@ -1,3 +1,3 @@
 def game_hash(hash)
-hash = {}
+  return hash= {}
 end
