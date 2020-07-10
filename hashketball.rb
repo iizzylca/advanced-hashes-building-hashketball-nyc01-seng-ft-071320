@@ -1,4 +1,5 @@
-hash = {:home => [
+hash = {
+  :home => [
   :team_name =>,
   :colors => [
     " "
