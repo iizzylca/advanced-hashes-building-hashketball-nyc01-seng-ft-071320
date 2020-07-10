@@ -13,7 +13,7 @@ hash = {:home => [
       :number =>,
       :shoe =>,
       :points =>,
-      :rebounds =>, 
+      :rebounds =>,
       :assists =>,
       :steals =>,
       :blocks =>,
