@@ -1,5 +1,5 @@
 hash = {}
 
-def game_hash(hash)
+def game_hash(Hash)
 
 end
