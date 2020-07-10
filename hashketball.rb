@@ -6,7 +6,7 @@ hash = {
     :players =>
     [
       {
-      :player_name =>,
+      :player_name => 
       :number =>,
       :shoe =>,
       :points =>,
