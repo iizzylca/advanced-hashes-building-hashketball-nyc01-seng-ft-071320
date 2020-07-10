@@ -1,6 +1,7 @@
 hash = {
   :home => [
-    :team_name =>"Brooklyn Nets",
+    :team_name =>
+    "Brooklyn Nets",
     :colors => [
       "Black",
       "White"
