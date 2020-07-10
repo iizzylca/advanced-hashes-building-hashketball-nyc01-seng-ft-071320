@@ -15,7 +15,9 @@ hash = {
       :shoe =>
       {
       }
-      :points =>}
+      :points =>
+      {
+      }
       :rebounds =>}
       :assists =>}
       :steals =>}
