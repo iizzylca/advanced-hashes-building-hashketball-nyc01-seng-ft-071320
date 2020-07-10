@@ -1,1 +1,1 @@
-hash = {:home => {}, :away => {}}
+hash = {:home => [], :away => []}
