@@ -4,9 +4,10 @@ hash = {:home => [
   :players =>
   ],
   :away => [
-    :team_name =>,
-    :colors =>,
-    :players =>
+    :team_name =>" ",
+    :colors => [
+      " "
+    ],
+    :players => [{}]
     ]
   }
-  
