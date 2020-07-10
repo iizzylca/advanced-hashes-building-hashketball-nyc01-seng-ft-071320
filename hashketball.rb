@@ -1,4 +1,4 @@
 
-def game_hash(Hash)
+def game_hash(hash)
 
 end
