@@ -12,7 +12,9 @@ hash = {
       :number =>
       }
       {
-      :shoe =>}
+      :shoe =>
+      {
+      }
       :points =>}
       :rebounds =>}
       :assists =>}
