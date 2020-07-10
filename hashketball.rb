@@ -18,11 +18,11 @@ hash = {
       :points =>
       {
       }
-      :rebounds =>}
-      :assists =>}
-      :steals =>}
-      :blocks =>}
-      :slam_dunks =>}
+      :rebounds =>{}
+      :assists =>{}
+      :steals =>{}
+      :blocks =>{}
+      :slam_dunks =>{}
       },
       {
       :player_name =>,
